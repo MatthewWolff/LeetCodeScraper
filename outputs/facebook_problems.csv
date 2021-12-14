@@ -1,0 +1,214 @@
+title,times,link,difficulty
+Minimum Remove to Make Valid Parentheses,153,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,medium
+Valid Palindrome II,108,https://leetcode.com/problems/valid-palindrome-ii/,easy
+K Closest Points to Origin,82,https://leetcode.com/problems/k-closest-points-to-origin/,medium
+Subarray Sum Equals K,81,https://leetcode.com/problems/subarray-sum-equals-k/,medium
+Buildings With an Ocean View,63,https://leetcode.com/problems/buildings-with-an-ocean-view/,premium
+Add Strings,62,https://leetcode.com/problems/add-strings/,easy
+Dot Product of Two Sparse Vectors,58,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,premium
+Range Sum of BST,55,https://leetcode.com/problems/range-sum-of-bst/,easy
+Product of Array Except Self,54,https://leetcode.com/problems/product-of-array-except-self/,medium
+Merge Intervals,51,https://leetcode.com/problems/merge-intervals/,medium
+Convert Binary Search Tree to Sorted Doubly Linked List,48,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/,premium
+Lowest Common Ancestor of a Binary Tree III,44,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/,premium
+Merge Sorted Array,42,https://leetcode.com/problems/merge-sorted-array/,easy
+Minimum Add to Make Parentheses Valid,39,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,medium
+Squares of a Sorted Array,38,https://leetcode.com/problems/squares-of-a-sorted-array/,easy
+Next Permutation,37,https://leetcode.com/problems/next-permutation/,medium
+Leftmost Column with at Least a One,36,https://leetcode.com/problems/leftmost-column-with-at-least-a-one/,premium
+LRU Cache,35,https://leetcode.com/problems/lru-cache/,medium
+Binary Tree Maximum Path Sum,34,https://leetcode.com/problems/binary-tree-maximum-path-sum/,hard
+Making A Large Island,34,https://leetcode.com/problems/making-a-large-island/,hard
+Basic Calculator II,33,https://leetcode.com/problems/basic-calculator-ii/,medium
+Continuous Subarray Sum,33,https://leetcode.com/problems/continuous-subarray-sum/,medium
+Random Pick with Weight,32,https://leetcode.com/problems/random-pick-with-weight/,medium
+Remove Invalid Parentheses,31,https://leetcode.com/problems/remove-invalid-parentheses/,hard
+Find Peak Element,28,https://leetcode.com/problems/find-peak-element/,medium
+Remove All Adjacent Duplicates In String,28,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,easy
+Merge k Sorted Lists,26,https://leetcode.com/problems/merge-k-sorted-lists/,hard
+All Nodes Distance K in Binary Tree,19,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,medium
+String to Integer (atoi),19,https://leetcode.com/problems/string-to-integer-atoi/,medium
+Valid Number,18,https://leetcode.com/problems/valid-number/,hard
+Copy List with Random Pointer,18,https://leetcode.com/problems/copy-list-with-random-pointer/,medium
+Sum Root to Leaf Numbers,17,https://leetcode.com/problems/sum-root-to-leaf-numbers/,medium
+Combination Sum,17,https://leetcode.com/problems/combination-sum/,medium
+First Bad Version,17,https://leetcode.com/problems/first-bad-version/,easy
+Vertical Order Traversal of a Binary Tree,17,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,hard
+Subsets,17,https://leetcode.com/problems/subsets/,medium
+Random Pick Index,17,https://leetcode.com/problems/random-pick-index/,medium
+3Sum Closest,16,https://leetcode.com/problems/3sum-closest/,medium
+Insert Delete GetRandom O(1),16,https://leetcode.com/problems/insert-delete-getrandom-o1/,medium
+Toeplitz Matrix,16,https://leetcode.com/problems/toeplitz-matrix/,easy
+Insert into a Sorted Circular Linked List,15,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/,premium
+Max Consecutive Ones III,15,https://leetcode.com/problems/max-consecutive-ones-iii/,medium
+Interval List Intersections,15,https://leetcode.com/problems/interval-list-intersections/,medium
+Median of Two Sorted Arrays,14,https://leetcode.com/problems/median-of-two-sorted-arrays/,hard
+Longest Substring Without Repeating Characters,14,https://leetcode.com/problems/longest-substring-without-repeating-characters/,medium
+Integer to English Words,13,https://leetcode.com/problems/integer-to-english-words/,hard
+Valid Word Abbreviation,13,https://leetcode.com/problems/valid-word-abbreviation/,premium
+Meeting Rooms II,13,https://leetcode.com/problems/meeting-rooms-ii/,premium
+3Sum,12,https://leetcode.com/problems/3sum/,medium
+Find Pivot Index,12,https://leetcode.com/problems/find-pivot-index/,easy
+Serialize and Deserialize Binary Tree,12,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,hard
+Island Perimeter,12,https://leetcode.com/problems/island-perimeter/,easy
+Remove All Adjacent Duplicates in String II,12,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,medium
+First Unique Character in a String,12,https://leetcode.com/problems/first-unique-character-in-a-string/,easy
+Capacity To Ship Packages Within D Days,10,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,medium
+Find Largest Value in Each Tree Row,10,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,medium
+Construct Binary Tree from String,10,https://leetcode.com/problems/construct-binary-tree-from-string/,premium
+Recyclable and Low Fat Products,10,https://leetcode.com/problems/recyclable-and-low-fat-products/,premium
+Basic Calculator,10,https://leetcode.com/problems/basic-calculator/,hard
+String Compression,9,https://leetcode.com/problems/string-compression/,medium
+Nested List Weight Sum,9,https://leetcode.com/problems/nested-list-weight-sum/,premium
+Custom Sort String,9,https://leetcode.com/problems/custom-sort-string/,medium
+Remove Duplicates from Sorted Array,9,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,easy
+Moving Average from Data Stream,9,https://leetcode.com/problems/moving-average-from-data-stream/,premium
+Reorganize String,9,https://leetcode.com/problems/reorganize-string/,medium
+Word Ladder II,8,https://leetcode.com/problems/word-ladder-ii/,hard
+Longest Increasing Path in a Matrix,8,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,hard
+Palindrome Permutation,8,https://leetcode.com/problems/palindrome-permutation/,premium
+Add Two Numbers,8,https://leetcode.com/problems/add-two-numbers/,medium
+Flatten Nested List Iterator,8,https://leetcode.com/problems/flatten-nested-list-iterator/,medium
+Daily Temperatures,8,https://leetcode.com/problems/daily-temperatures/,medium
+Path Sum II,8,https://leetcode.com/problems/path-sum-ii/,medium
+Kth Smallest Element in a Sorted Matrix,8,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,medium
+Unique Paths,8,https://leetcode.com/problems/unique-paths/,medium
+Intersection of Two Linked Lists,8,https://leetcode.com/problems/intersection-of-two-linked-lists/,easy
+Average of Levels in Binary Tree,7,https://leetcode.com/problems/average-of-levels-in-binary-tree/,easy
+Cutting Ribbons,7,https://leetcode.com/problems/cutting-ribbons/,premium
+Partition Equal Subset Sum,7,https://leetcode.com/problems/partition-equal-subset-sum/,medium
+Diameter of N-Ary Tree,7,https://leetcode.com/problems/diameter-of-n-ary-tree/,premium
+Search in Rotated Sorted Array,7,https://leetcode.com/problems/search-in-rotated-sorted-array/,medium
+Backspace String Compare,7,https://leetcode.com/problems/backspace-string-compare/,easy
+Longest Substring with At Most K Distinct Characters,7,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,premium
+Find Minimum in Rotated Sorted Array,7,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,medium
+Maximum Level Sum of a Binary Tree,7,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/,medium
+Is Graph Bipartite?,7,https://leetcode.com/problems/is-graph-bipartite/,medium
+Bulb Switcher,7,https://leetcode.com/problems/bulb-switcher/,medium
+Design Tic-Tac-Toe,6,https://leetcode.com/problems/design-tic-tac-toe/,premium
+Maximum Subarray,6,https://leetcode.com/problems/maximum-subarray/,easy
+Product of Two Run-Length Encoded Arrays,6,https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/,premium
+Minimum Knight Moves,6,https://leetcode.com/problems/minimum-knight-moves/,premium
+Palindromic Substrings,6,https://leetcode.com/problems/palindromic-substrings/,medium
+Target Sum,6,https://leetcode.com/problems/target-sum/,medium
+Shortest Bridge,6,https://leetcode.com/problems/shortest-bridge/,medium
+Course Schedule,6,https://leetcode.com/problems/course-schedule/,medium
+Populating Next Right Pointers in Each Node II,6,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/,medium
+Robot Room Cleaner,5,https://leetcode.com/problems/robot-room-cleaner/,premium
+Walls and Gates,5,https://leetcode.com/problems/walls-and-gates/,premium
+Delete Nodes And Return Forest,5,https://leetcode.com/problems/delete-nodes-and-return-forest/,medium
+Number of Distinct Islands,5,https://leetcode.com/problems/number-of-distinct-islands/,premium
+Roman to Integer,5,https://leetcode.com/problems/roman-to-integer/,easy
+Container With Most Water,5,https://leetcode.com/problems/container-with-most-water/,medium
+Smallest Subtree with all the Deepest Nodes,5,https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,medium
+Binary Tree Paths,4,https://leetcode.com/problems/binary-tree-paths/,easy
+Binary Tree Zigzag Level Order Traversal,4,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,medium
+Missing Element in Sorted Array,4,https://leetcode.com/problems/missing-element-in-sorted-array/,premium
+Goat Latin,4,https://leetcode.com/problems/goat-latin/,easy
+Find the Duplicate Number,4,https://leetcode.com/problems/find-the-duplicate-number/,medium
+Next Greater Element III,4,https://leetcode.com/problems/next-greater-element-iii/,medium
+Range Sum Query - Immutable,4,https://leetcode.com/problems/range-sum-query-immutable/,easy
+Rotate Image,4,https://leetcode.com/problems/rotate-image/,medium
+Next Closest Time,4,https://leetcode.com/problems/next-closest-time/,premium
+Odd Even Linked List,4,https://leetcode.com/problems/odd-even-linked-list/,medium
+Reverse Words in a String,4,https://leetcode.com/problems/reverse-words-in-a-string/,medium
+Reconstruct Itinerary,4,https://leetcode.com/problems/reconstruct-itinerary/,hard
+Longest Repeating Character Replacement,4,https://leetcode.com/problems/longest-repeating-character-replacement/,medium
+Bus Routes,4,https://leetcode.com/problems/bus-routes/,hard
+Check Completeness of a Binary Tree,4,https://leetcode.com/problems/check-completeness-of-a-binary-tree/,medium
+Max Stack,4,https://leetcode.com/problems/max-stack/,premium
+Detect Cycles in 2D Grid,4,https://leetcode.com/problems/detect-cycles-in-2d-grid/,medium
+Koko Eating Bananas,4,https://leetcode.com/problems/koko-eating-bananas/,medium
+Different Ways to Add Parentheses,4,https://leetcode.com/problems/different-ways-to-add-parentheses/,medium
+Contains Duplicate II,3,https://leetcode.com/problems/contains-duplicate-ii/,easy
+Intersection of Three Sorted Arrays,3,https://leetcode.com/problems/intersection-of-three-sorted-arrays/,premium
+Sum of Two Integers,3,https://leetcode.com/problems/sum-of-two-integers/,medium
+Valid Perfect Square,3,https://leetcode.com/problems/valid-perfect-square/,easy
+Pacific Atlantic Water Flow,3,https://leetcode.com/problems/pacific-atlantic-water-flow/,medium
+Monotonic Array,3,https://leetcode.com/problems/monotonic-array/,easy
+Battleships in a Board,3,https://leetcode.com/problems/battleships-in-a-board/,medium
+Beautiful Array,3,https://leetcode.com/problems/beautiful-array/,medium
+Find All Duplicates in an Array,3,https://leetcode.com/problems/find-all-duplicates-in-an-array/,medium
+Remove Duplicate Letters,3,https://leetcode.com/problems/remove-duplicate-letters/,medium
+Minimum Height Trees,3,https://leetcode.com/problems/minimum-height-trees/,medium
+Binary Tree Longest Consecutive Sequence,3,https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/,premium
+Fibonacci Number,3,https://leetcode.com/problems/fibonacci-number/,easy
+Egg Drop With 2 Eggs and N Floors,3,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/,medium
+Add to Array-Form of Integer,3,https://leetcode.com/problems/add-to-array-form-of-integer/,easy
+Next Greater Element I,3,https://leetcode.com/problems/next-greater-element-i/,easy
+Strobogrammatic Number,3,https://leetcode.com/problems/strobogrammatic-number/,premium
+Next Greater Element II,3,https://leetcode.com/problems/next-greater-element-ii/,medium
+Search a 2D Matrix II,3,https://leetcode.com/problems/search-a-2d-matrix-ii/,medium
+Design Circular Queue,3,https://leetcode.com/problems/design-circular-queue/,medium
+Invert Binary Tree,3,https://leetcode.com/problems/invert-binary-tree/,easy
+Peak Index in a Mountain Array,3,https://leetcode.com/problems/peak-index-in-a-mountain-array/,easy
+LFU Cache,2,https://leetcode.com/problems/lfu-cache/,hard
+Optimize Water Distribution in a Village,2,https://leetcode.com/problems/optimize-water-distribution-in-a-village/,premium
+One Edit Distance,2,https://leetcode.com/problems/one-edit-distance/,premium
+Nth Digit,2,https://leetcode.com/problems/nth-digit/,medium
+Longest Increasing Subsequence,2,https://leetcode.com/problems/longest-increasing-subsequence/,medium
+Friends Of Appropriate Ages,2,https://leetcode.com/problems/friends-of-appropriate-ages/,medium
+Maximum Frequency Stack,2,https://leetcode.com/problems/maximum-frequency-stack/,hard
+Complete Binary Tree Inserter,2,https://leetcode.com/problems/complete-binary-tree-inserter/,medium
+Break a Palindrome,2,https://leetcode.com/problems/break-a-palindrome/,medium
+Decode String,2,https://leetcode.com/problems/decode-string/,medium
+Palindrome Partitioning,2,https://leetcode.com/problems/palindrome-partitioning/,medium
+Sort the Matrix Diagonally,2,https://leetcode.com/problems/sort-the-matrix-diagonally/,medium
+Validate Binary Tree Nodes,2,https://leetcode.com/problems/validate-binary-tree-nodes/,medium
+Number of Ways to Stay in the Same Place After Some Steps,2,https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/,hard
+Validate IP Address,2,https://leetcode.com/problems/validate-ip-address/,medium
+Find Winner on a Tic Tac Toe Game,2,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,easy
+Evaluate Division,2,https://leetcode.com/problems/evaluate-division/,medium
+Permutation in String,2,https://leetcode.com/problems/permutation-in-string/,medium
+Rotting Oranges,2,https://leetcode.com/problems/rotting-oranges/,medium
+Restore IP Addresses,2,https://leetcode.com/problems/restore-ip-addresses/,medium
+The Maze,2,https://leetcode.com/problems/the-maze/,premium
+K-diff Pairs in an Array,3,https://leetcode.com/problems/k-diff-pairs-in-an-array/,medium
+Number of 1 Bits,3,https://leetcode.com/problems/number-of-1-bits/,easy
+Min Stack,3,https://leetcode.com/problems/min-stack/,easy
+Single Element in a Sorted Array,3,https://leetcode.com/problems/single-element-in-a-sorted-array/,medium
+Boundary of Binary Tree,3,https://leetcode.com/problems/boundary-of-binary-tree/,premium
+Single Number,3,https://leetcode.com/problems/single-number/,easy
+Split Array with Equal Sum,3,https://leetcode.com/problems/split-array-with-equal-sum/,premium
+Convert Sorted List to Binary Search Tree,3,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,medium
+Symmetric Tree,3,https://leetcode.com/problems/symmetric-tree/,easy
+Decode Ways,3,https://leetcode.com/problems/decode-ways/,medium
+Minimum Number of Taps to Open to Water a Garden,3,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,hard
+Set Matrix Zeroes,3,https://leetcode.com/problems/set-matrix-zeroes/,medium
+Plus One,3,https://leetcode.com/problems/plus-one/,easy
+Longest Continuous Increasing Subsequence,3,https://leetcode.com/problems/longest-continuous-increasing-subsequence/,easy
+Wildcard Matching,3,https://leetcode.com/problems/wildcard-matching/,hard
+Search Insert Position,3,https://leetcode.com/problems/search-insert-position/,easy
+Valid Tic-Tac-Toe State,3,https://leetcode.com/problems/valid-tic-tac-toe-state/,medium
+Swap Nodes in Pairs,3,https://leetcode.com/problems/swap-nodes-in-pairs/,medium
+Lowest Common Ancestor of a Binary Tree II,3,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/,premium
+Number of Calls Between Two Persons,3,https://leetcode.com/problems/number-of-calls-between-two-persons/,premium
+Sort Characters By Frequency,2,https://leetcode.com/problems/sort-characters-by-frequency/,medium
+Subsets II,2,https://leetcode.com/problems/subsets-ii/,medium
+Increasing Triplet Subsequence,2,https://leetcode.com/problems/increasing-triplet-subsequence/,medium
+Ads Performance,2,https://leetcode.com/problems/ads-performance/,premium
+Maximum Difference Between Node and Ancestor,2,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/,medium
+Climbing Stairs,2,https://leetcode.com/problems/climbing-stairs/,easy
+Non-overlapping Intervals,2,https://leetcode.com/problems/non-overlapping-intervals/,medium
+Maximum Sum BST in Binary Tree,2,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/,hard
+Maximum Number of Events That Can Be Attended,2,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,medium
+Minimum Insertions to Balance a Parentheses String,2,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/,medium
+Spiral Matrix,2,https://leetcode.com/problems/spiral-matrix/,medium
+Find All Anagrams in a String,2,https://leetcode.com/problems/find-all-anagrams-in-a-string/,medium
+Top K Frequent Words,2,https://leetcode.com/problems/top-k-frequent-words/,medium
+Logger Rate Limiter,2,https://leetcode.com/problems/logger-rate-limiter/,premium
+Customer Order Frequency,2,https://leetcode.com/problems/customer-order-frequency/,premium
+Path With Maximum Minimum Value,2,https://leetcode.com/problems/path-with-maximum-minimum-value/,premium
+Binary Tree Pruning,2,https://leetcode.com/problems/binary-tree-pruning/,medium
+Asteroid Collision,2,https://leetcode.com/problems/asteroid-collision/,medium
+Serialize and Deserialize BST,2,https://leetcode.com/problems/serialize-and-deserialize-bst/,medium
+Intersection of Two Arrays,2,https://leetcode.com/problems/intersection-of-two-arrays/,easy
+Strings Differ by One Character,2,https://leetcode.com/problems/strings-differ-by-one-character/,premium
+Sort Array by Increasing Frequency,2,https://leetcode.com/problems/sort-array-by-increasing-frequency/,easy
+Design Circular Deque,2,https://leetcode.com/problems/design-circular-deque/,medium
+Open the Lock,2,https://leetcode.com/problems/open-the-lock/,medium
+Rotated Digits,2,https://leetcode.com/problems/rotated-digits/,medium
+Uncommon Words from Two Sentences,2,https://leetcode.com/problems/uncommon-words-from-two-sentences/,easy
+Sum of Unique Elements,2,https://leetcode.com/problems/sum-of-unique-elements/,easy
+Cheapest Flights Within K Stops,2,https://leetcode.com/problems/cheapest-flights-within-k-stops/,medium
+Basic Calculator III,2,https://leetcode.com/problems/basic-calculator-iii/,premium
